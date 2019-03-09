@@ -1,0 +1,5 @@
+kind: Pancakes
+metadata:
+  name: comfort
+stacksize: 5
+topping: strawberries

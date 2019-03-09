@@ -1,0 +1,6 @@
+commonLabels:
+  who: alice
+bases:
+  - ../../base
+patchesStrategicMerge:
+  - temperature.yaml

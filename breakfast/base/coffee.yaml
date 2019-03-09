@@ -1,0 +1,6 @@
+kind: Coffee
+metadata:
+  name: morningCup
+temperature: lukewarm
+data:
+  greeting: "Good Morning!"

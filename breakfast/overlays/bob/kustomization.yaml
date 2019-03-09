@@ -1,0 +1,6 @@
+commonLabels:
+  who: bob
+bases:
+  - ../../base
+patchesStrategicMerge:
+  - topping.yaml
